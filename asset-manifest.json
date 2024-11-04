@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ResonateQuestion2/static/css/main.d3110b91.css",
+    "main.js": "/ResonateQuestion2/static/js/main.2c566edd.js",
+    "static/js/453.1bdbb197.chunk.js": "/ResonateQuestion2/static/js/453.1bdbb197.chunk.js",
+    "index.html": "/ResonateQuestion2/index.html",
+    "main.d3110b91.css.map": "/ResonateQuestion2/static/css/main.d3110b91.css.map",
+    "main.2c566edd.js.map": "/ResonateQuestion2/static/js/main.2c566edd.js.map",
+    "453.1bdbb197.chunk.js.map": "/ResonateQuestion2/static/js/453.1bdbb197.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3110b91.css",
+    "static/js/main.2c566edd.js"
+  ]
+}
